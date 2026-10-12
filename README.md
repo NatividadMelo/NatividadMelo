@@ -25,9 +25,9 @@ en diseños claros, profesionales y memorables.
 | <img src="PROYECTO1.jpg" width="250"> | <img src="PROYECTO2.jpg" width="250"> | <img src="PROYECTO3.jpg" width="250"> |
 | **Diseño editorial** | **Branding** | **Social Media** |
 
-🌐 [Ver proyecto web: Artista Plástico - Ángel D. Vargas L.] (https://angeldavidvargaslandaeta.github.io/)
+🌐 [Ver proyecto web: Artista Plástico - Ángel D. Vargas L.](https://angeldavidvargaslandaeta.github.io/)
 
-📖 [Ver flipbook interactivo: Santos Ecocentrsitas - Ángel D. Vargas L.] (https://libroangelvargas.github.io/)
+📖 [Ver flipbook interactivo: Santos Ecocentrsitas - Ángel D. Vargas L.](https://libroangelvargas.github.io/)
 
 ---
 
