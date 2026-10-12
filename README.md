@@ -22,7 +22,7 @@ en diseños claros, profesionales y memorables.
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="proyecto1.jpg" width="250"> | <img src="proyecto2.jpg" width="250"> | <img src="proyecto3.jpg" width="250"> |
+| <img src="PROYECTO1.jpg" width="250"> | <img src="PROYECTO2.jpg" width="250"> | <img src="PROYECTO3.jpg" width="250"> |
 | **Diseño editorial** | **Branding** | **Social Media** |
 
 🌐 [Ver mi sitio web en vivo](https://angeldavidvargaslandaeta.github.io/)
